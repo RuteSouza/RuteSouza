@@ -5,7 +5,6 @@ My name is Rute, I am brazilian and have 25 years.
 - 💞️ I’m looking to collaborate on projects to develop and improve my knowledges.
 - 📫 You can find me on LinkedIn: www.Linkedin.com/in/rutesouza
  
-<img src="https://img.shields.io/endpoint?color=black&label=Check%20out&logo=LinkedIn&logoColor=white&url=https://www.linkedin.com/in/rutesouza/"/>
 
 <!---
 RuteSouza/RuteSouza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
